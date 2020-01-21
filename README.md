@@ -1,4 +1,4 @@
-# PythonClass
+# Python Class
 A quick but comprehensive view of Python
 
 ### Useful Sublime Shortcuts
@@ -18,3 +18,5 @@ git add .
 git commit -m "commit message here"
 git push (git may tell to set up remote branch and give you the command for it)
 ```
+#### Git Flow
+![Git Flow Chart](https://wac-cdn.atlassian.com/dam/jcr:61ccc620-5249-4338-be66-94d563f2843c/05%20(2).svg?cdnVersion=766)
