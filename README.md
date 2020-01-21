@@ -11,6 +11,8 @@ A quick but comprehensive view of Python
 ```
 git clone # Get the code base
 git checkout -b myNewBranch #
+git status # Lists the changed files
+git diff
 git add .
 git commit -m "commit message here"
 git push (git may tell to set up remote branch and give you the command for it)
