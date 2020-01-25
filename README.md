@@ -85,6 +85,7 @@ Start with:
 	- be able to adopt a dog
 * DB of:
 	- dogs
+	- cats
 	- food treats
 	- users
 	- clothes
