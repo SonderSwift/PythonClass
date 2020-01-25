@@ -11,7 +11,7 @@ Finished running reversed() 1000 times:
 0.0007898807525634766
 
 time: 0.05808210372924805
-"""
+##hello dad"""
 
 from time import time
 
